@@ -1,0 +1,28 @@
+# useless variable to illustrate TOML usage
+title = 'Meeko TOML Configuration'
+
+[agent]
+name = 'Meeko'
+[agent.recon]
+duration = 15
+channels = []
+hopTime = 250
+[agent.targeting]
+scope = 5
+targetWeights = [3,2,2,1,1]
+
+[memory]
+reconFile = '/path/to/file'
+attackFile = '/path/to/file'
+knownFile = '/path/to/file'
+
+[environment]
+[environment.server]
+address = 'http://127.0.0.1:8081'
+auth = ['user','pass']
+url = 'api/session'
+hostname = '127.0.0.1'
+scheme = 'http'
+port = 8081
+username = 'user'
+password = 'pass'

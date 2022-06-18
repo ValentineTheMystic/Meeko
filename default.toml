@@ -12,11 +12,17 @@ scope = 5
 targetWeights = [3,2,2,1,1]
 
 [memory]
-reconFile = 'memory/reconFile'
-attackFile = 'memory/attackFile'
+reconFile = '/path/to/file'
+attackFile = '/path/to/file'
 knownFile = '/path/to/file'
 
 [environment]
-server = 'http://127.0.0.1:8081'
+[environment.server]
+address = 'http://127.0.0.1:8081'
 auth = ['user','pass']
 url = 'api/session'
+hostname = '127.0.0.1'
+scheme = 'http'
+port = 8081
+username = 'user'
+password = 'pass'

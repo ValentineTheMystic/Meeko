@@ -1,11 +1,18 @@
 # Meeko
 
 ### To-Do
+#### Features
 <ul>
   <li>Create the mainloop function
   <li>Complete memory and recall features
   <li>Add hcxdump functionality
   <li>Create dynamic configuration files
+</ul> 
+#### Improvements
+<ul>
+  <li>Make appropriate function parameters optional
+  <li>Organize session file structure
+  <li>Create setup.py
 </ul> 
 
 

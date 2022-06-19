@@ -1,5 +1,11 @@
 # Meeko
 
+## Description
+This is by no means a finished product but many of
+it's basic features are functional, if a bit clumsy.
+For the time being this repo mainly serves the purpose
+of helping me to visualize the project structure.
+
 ### To-Do
 #### Features
 <ul>

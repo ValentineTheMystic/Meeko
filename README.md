@@ -1,8 +1,9 @@
-# Meeko
-![logo](https://raw.githubusercontent.com/ValentineTheMystic/Meeko/main/2505432-200.png)
+<h1 align = 'center'><b><u>MEEKO!</u></b></h1>
 
+![logo](https://raw.githubusercontent.com/ValentineTheMystic/Meeko/main/2505432-200.png)
   
-## Description
+<h2 align = 'center'><u>Description</u></h2>
+
 <p align="center"><b>This project is nto yet functional</b></p>
 This is by no means a finished product but many of
 it's basic features are functional, if a bit clumsy.

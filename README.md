@@ -3,6 +3,7 @@
 
   
 ## Description
+<p align="center"><b>This project is nto yet functional</b></p>
 This is by no means a finished product but many of
 it's basic features are functional, if a bit clumsy.
 For the time being this repo mainly serves the purpose

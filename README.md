@@ -1,6 +1,7 @@
 # Meeko
-![ui](https://raw.githubusercontent.com/ValentineTheMystic/Meeko/main/2505432-200.png)
+![logo](https://raw.githubusercontent.com/ValentineTheMystic/Meeko/main/2505432-200.png)
 
+  
 ## Description
 This is by no means a finished product but many of
 it's basic features are functional, if a bit clumsy.

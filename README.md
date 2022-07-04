@@ -23,11 +23,10 @@ of helping me to visualize the project structure.</p>
 <p align="center">Most common hardware paired with a packet injection
 capable wifi antennae should be compatible. Listed below are configurations
 I have confirmed through testing.</p>
-<ul>
-  <li>Device: Raspberry Pi 4
-  <li>OS: Raspbian
-  <li>Wifi Adapter: [Panda Wireless Model: PAU09 N600](https://pwnagotchi.ai/)
-</ul>
+
+Device: Raspberry Pi 4
+OS: Raspbian
+Wifi Adapter: [Panda Wireless Model: PAU09](http://www.pandawireless.com/pandaN600ant.htm)
 
 <h2 align='center'>To-Do</h2>
 <ul>

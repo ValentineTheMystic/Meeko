@@ -24,9 +24,9 @@ of helping me to visualize the project structure.</p>
 capable wifi antennae should be compatible. Listed below are configurations
 I have confirmed through testing.</p>
 
-Device: Raspberry Pi 4
-OS: Raspbian
-Wifi Adapter: [Panda Wireless Model: PAU09](http://www.pandawireless.com/pandaN600ant.htm)
+Device: [Raspberry Pi 4](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/)<br />
+OS: [Raspberry Pi OS](https://www.raspberrypi.com/software/)<br />
+Wifi Adapter: [Panda Wireless Model: PAU09](http://www.pandawireless.com/pandaN600ant.htm)<br />
 
 <h2 align='center'>To-Do</h2>
 <ul>
